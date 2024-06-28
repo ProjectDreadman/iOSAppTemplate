@@ -34,7 +34,7 @@ To start using this template, clone the repository and open it in Xcode.
 3. Build and run the project on an emulator or physical device.
 
 ### Contributing
-Contributions are welcome! Feel free to fork this repository, make improvements(by going to issues and putting the label enhancement or in the title), and submit pull requests.
+Contributions are welcome! Feel free to fork this repository, make improvements(via pull request), and submit pull requests.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
